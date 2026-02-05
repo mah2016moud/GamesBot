@@ -1,0 +1,9 @@
+streamlit
+rembg
+onnxruntime
+streamlit
+qrcode[pillow]
+Pillow
+requests
+pandas
+jinja2
